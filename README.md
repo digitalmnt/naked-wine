@@ -5,7 +5,7 @@ I found it hard to find a good source/api that provides free data on wines. I wa
 
 To overcome this I grabbed the first 20ish values from the file and included them via a local JSON file.
 
-It was also interesting to not use a style library. We use tailwind at my current position and rely on it for most styling. It was nice to dust the ol media query skills up 😊
+It was also interesting to not use a css library. We use tailwind at my current position and rely on it for most styling. It was nice to dust the old media query skills up 😊
 
 Other than that everything else was pretty straightforward. Looking forward to any feedback. Thanks for looking!
 ## Project setup
